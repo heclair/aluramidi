@@ -1,4 +1,4 @@
-<h1 align="center">AluraMidi</h1>
+<h1 align="center">ALURA JavaScript para Web: Crie páginas dinâmicas</h1>
 
 ## :dart: Objetivos do Estudo
 Projeto elaborado com base no curso "JavaScript para Web: Crie páginas dinâmicas" da plataforma Alura que faz parte da formação "Desenvolva aplicações Web com JavaScript", nesta aplicação foi ensinado as seguintes funções:
