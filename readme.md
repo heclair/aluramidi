@@ -44,4 +44,4 @@ Projeto elaborado com base no curso "JavaScript para Web: Crie páginas dinâmic
 
 ## :heavy_check_mark: Design do Projeto
 
-<p align="center"><img src="./projeto.png" /></p>
+<p align="center"><img src="./projeto.PNG" /></p>
